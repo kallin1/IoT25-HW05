@@ -1,6 +1,6 @@
 # IoT25-HW05
 
-## Board and Port Screenshot
+## Working Screenshot
 ![Screenshot](./IoT25-HW05.jpg)
 
 ## Connect Server and Client
